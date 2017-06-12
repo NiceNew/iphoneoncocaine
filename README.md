@@ -2,8 +2,8 @@
 A passcode cracking utility for all iOS devices
 
 # sources I used in the project
-libimobiledevice
-afcclient
+- libimobiledevice
+- afcclient
 
 # How to install
 * On a APT based linux:
